@@ -1,0 +1,13 @@
+{
+    "name": "merrativeTTS",
+    "version": "1.0.0",
+    "dependencies": {
+        "@aws-sdk/client-polly": "^3.72.0",
+        "@aws-sdk/client-s3": "^3.32.0",
+        "aws-sdk": "^2.1117.0",
+        "crawler": "^1.3.0",
+        "fs": "^0.0.1-security",
+        "minio": "^7.0.27"
+    },
+    "type": "module"
+}
